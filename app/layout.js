@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'DevBoost',
-  description: 'A JavaScript-native dev loop experience',
+  title: 'Vino-IK | JS CLI Module',
+  description: 'A JavaScript-based CLI Module',
 };
 
 export default function RootLayout({ children }) {
