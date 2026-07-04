@@ -1,0 +1,10 @@
+# Exclude File Types
+*.html linguist-vendored
+*.css linguist-vendored
+*.yml linguist-vendored
+
+# Exclude Directories
+github/*
+app/* linguist-vendored
+node_modules/* linguist-vendored
+next/* linguist-vendored
